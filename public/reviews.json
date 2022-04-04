@@ -4,39 +4,47 @@
         "category": "reviews",
         "name": "Monira Jahan Tania",
         "ratings": 4,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-        "words": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum praesentium doloremque recusandae deleniti? Eligendi necessitatibus culpa aspernatur rerum accusantium, ullam assumenda inventore? Excepturi natus, neque expedita ex porro autem quo?"
+        "img": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "words": "As 16:10 aspect ratio displays proliferate, Dell's Latitude 9520 2-in-1 sticks with 16:9 but shrinks it to 15 inches to make a more portable business laptop."
     },
     {
         "id": "2",
         "category": "reviews",
-        "name": "Monira Jahan Tania",
-        "ratings": 4,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-        "words": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum praesentium doloremque recusandae deleniti? Eligendi necessitatibus culpa aspernatur rerum accusantium, ullam assumenda inventore? Excepturi natus, neque expedita ex porro autem quo?"
+        "name": "Jannatul Naim Tahmina",
+        "ratings": 4.5,
+        "img": "https://images.pexels.com/photos/9896380/pexels-photo-9896380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "words": "The workstation sibling of the celebrated Dell XPS 15, the Precision 5560 is a slim, splendid-screened laptop that can handle all but the toughest professional apps."
     },
     {
         "id": "3",
         "category": "reviews",
-        "name": "Monira Jahan Tania",
-        "ratings": 4,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-        "words": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum praesentium doloremque recusandae deleniti? Eligendi necessitatibus culpa aspernatur rerum accusantium, ullam assumenda inventore? Excepturi natus, neque expedita ex porro autem quo?"
+        "name": "Fahmida Eyasmin",
+        "ratings": 4.5,
+        "img": "https://images.pexels.com/photos/3671083/pexels-photo-3671083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "words": "The Dell Inspiron 15 3000 (3511) excels as a budget laptop that can handle day-to-day tasks and some very light gaming, and it even comes with Windows 11—all for under $400."
     },
     {
         "id": "4",
         "category": "reviews",
-        "name": "Monira Jahan Tania",
+        "name": "Farhat Snigdho",
         "ratings": 4,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-        "words": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum praesentium doloremque recusandae deleniti? Eligendi necessitatibus culpa aspernatur rerum accusantium, ullam assumenda inventore? Excepturi natus, neque expedita ex porro autem quo?"
+        "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "words": "Dell's latest and finest 15.6-inch mobile workstation, the Precision 7560, is a massively powerful and configurable choice for complex designs and large datasets."
     },
     {
         "id": "5",
         "category": "reviews",
-        "name": "Monira Jahan Tania",
+        "name": "Abdul Momin",
+        "ratings": 4.5,
+        "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "words": "Now available with an OLED screen, an 8TB SSD, and Intel processing, the Dell XPS 15 is our top pick among premium desktop-replacement laptops."
+    },
+    {
+        "id": "6",
+        "category": "reviews",
+        "name": "Abdullah Al Mamun",
         "ratings": 4,
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
-        "words": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum praesentium doloremque recusandae deleniti? Eligendi necessitatibus culpa aspernatur rerum accusantium, ullam assumenda inventore? Excepturi natus, neque expedita ex porro autem quo?"
+        "img": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "words": "The Inspiron 16 Plus (7610) is a top-notch value in a burgeoning category of laptops with 16-inch displays, capable Intel H-series CPUs, and Nvidia GeForce RTX graphics."
     }
 ]

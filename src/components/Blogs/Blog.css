@@ -1,0 +1,12 @@
+.blogs {
+    margin: 40px 40px;
+    background-color: blanchedalmond;
+    text-align: left;
+    padding: 20px 30px;
+}
+
+.blogs h1,
+p {
+    color: rgb(4, 42, 4);
+    font-weight: 500;
+}

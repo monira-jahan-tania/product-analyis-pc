@@ -15,7 +15,10 @@ const Home = () => {
             <div className='banner'>
                 <div className="product-details">
                     <h1>Dell Laptop</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum praesentium doloremque recusandae deleniti? Eligendi necessitatibus culpa aspernatur rerum accusantium, ullam assumenda inventore? Excepturi natus, neque expedita ex porro autem quo?</p>
+                    <p>Processor: Intel Celeron N4020 Dual Core (4MB Cache, 1.10 GHz Up To 2.80 GHz) Processor<br></br>
+                        RAM: 4GB 2400MHz DDR4 <br />
+                        Storage: 1TB SATA 5400RPM <br />
+                        Display: 15.6" HD (1366 x 768) LED</p>
                 </div>
                 <div className="product-img">
                     <img src={pic} alt='' />
