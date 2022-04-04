@@ -45,3 +45,21 @@ img {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 40px;
 }
+
+.review-btn {
+    background-color: rgb(3, 74, 3);
+    padding: 20px 40px;
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+.review-btn:hover {
+    background-color: blanchedalmond;
+    color: rgb(3, 74, 3);
+    border: 2px solid rgb(3, 74, 3);
+}

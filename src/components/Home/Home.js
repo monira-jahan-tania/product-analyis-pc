@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReviews from '../../hooks/useReviews';
 import pic from '../../images/dell-laptop.jpg'
 import Customerreview from '../Customerreview/Customerreview';
@@ -32,7 +33,7 @@ const Home = () => {
                             ></Customerreview>)
                         }
                     </div>
-                    <button>See all reviews</button>
+                    <Link to='/reviews'><button className='review-btn'>See all reviews</button></Link>
                 </div>
             </div>
         </div>
