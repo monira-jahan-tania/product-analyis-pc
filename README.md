@@ -1,6 +1,5 @@
 # Product Reviews
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live site link: 
 
 .I have serially done my task by completing Router activities
 . then started making components with different related parts of the application
